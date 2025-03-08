@@ -84,5 +84,3 @@ docker run -p 8080:8080 spring-simple-app
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-This `README.md` file provides an overview of the project, instructions for setting up and running the application, and information about configuration and testing.
